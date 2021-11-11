@@ -1,0 +1,10 @@
+#TASKS
+-<h1 id="tm-header" class="tm-brand text-uppercase"></h1>	Add Customer Name to h1 (Kevin)
+-<span class="d-inline-block tm-white-rect"></span>	Change all class names 'tm-white-rect' to 'tm-blue=rect'(Sweta)
+-<ul class="nav flex-row tm-social-links">	Hide social links(German)
+-<h2 id="introheader" class="tm-section-title mb-5 text-uppercase tm-color-primary"></h2>	Add the text 'Alliance' to h2(Benjamin)
+-<p id="intropara1" class="tm-color-gray">	Add the text 'Alliance was founded in 1931 by Albert Daniels.'(Erik)
+-<p id="intropara2" class="tm-color-gray">	Add the text 'The company is a leader in P.C. Manufacturing'(Jonanthon)
+-<p id="aboutpara1">	Add the text 'We deliver the best service this side of creation'(Tom)
+-<p id="aboutpara2">	Add the text 'Our motto is satisfaction guaranteed'(Tom)
+-<p id="addresspara">	Add the text '1-800-565-5656'()
